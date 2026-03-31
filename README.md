@@ -1,3 +1,7 @@
+![DRŌMA Interface](docs/droma-interface.png)
+
+*DRŌMA interface in idle state, awaiting live audio input.*
+
 # DRŌMA  
 **Real-Time Sonic Dramaturgy**
 

@@ -1,5 +1,6 @@
 # DRŌMA  
 **Real-Time Sonic Dramaturgy**
+
 > A practice-based research system for real-time sonic dramaturgy and performable visual notation.
 
 DRŌMA is a real-time audiovisual system that translates live audio into dynamic visual scores through multiple artistic paradigms inspired by 20th-century visual art (Kandinsky, Klee, Miró and others).
@@ -25,7 +26,7 @@ DRŌMA operates at the intersection of:
 - Music notation technology  
 - Sonic visualization  
 - Computational aesthetics  
-- Human-computer interaction in music  
+- Human–computer interaction in music  
 - Practice-based artistic research  
 
 ---
